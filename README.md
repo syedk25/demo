@@ -1,3 +1,0 @@
-application running
-
-added feature
